@@ -27,7 +27,7 @@
 - 🎓 Studying Telecom Engineering @ Kwame Nkrumah University of Science & Technology (Class of 2026)
 - 🔬 Currently a YARA Research Fellow 2025 and DCA DataCamp Scholar 2025
 - 🎯 I love applying mathematical modeling and ML techniques to solve real-world problems in finance and data science!
-- 📊 Research focus: Market capitalization forecasting and sports betting arbitrage using mathematical frameworks
+- 📊 Research focus: Applied Machine Learning - Feature Engineering Mobile Money Logs for robust Credit Risk Modelling 
 
 ## ✅ Languages and Tools
 
