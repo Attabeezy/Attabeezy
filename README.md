@@ -37,7 +37,6 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/MATLAB-0078D4?style=flat-square&logo=matlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
 
