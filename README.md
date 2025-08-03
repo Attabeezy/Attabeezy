@@ -2,7 +2,9 @@
 ## KNUST Undergraduate Student | Data Analytics Intern @ Quantium | Research Fellow @ YARA | DataCamp Scholar 2025
 
 <div>
+
   [![roadmap.sh](https://roadmap.sh/card/wide/68214b0c648d25d9ca9ba227?variant=dark&roadmaps=ai-data-scientist%2Cpython%2Ccomputer-science%2Ctechnical-writer)](https://roadmap.sh)
+
 </div>
 
 <div align="center">
