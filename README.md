@@ -77,7 +77,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attabeezy&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=attabeezy&theme=tokyonight)
 
 ## 🏆 Featured Projects
 
