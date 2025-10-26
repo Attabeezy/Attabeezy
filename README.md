@@ -27,37 +27,34 @@
 - 🔬 Acamdemic Focus: Applied ML and LLM Research
 
 ## ✅ Languages and Tools
-
 <table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/MATLAB-0078D4?style=flat-square&logo=matlab&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Data Science & ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-    </td>
-  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/MATLAB-0078D4?style=flat-square&logo=matlab&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Science &amp; ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools &amp; Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ## 🤝 Connect with Me
