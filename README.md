@@ -1,22 +1,22 @@
 # Hi there, I'm Benjamin Ekow Attabra 👋
 ## KNUST Undergraduate Student | Data Analytics Intern @ Quantium | Research Fellow @ YARA | DataCamp Scholar 2025
 
-<div align="center">
+<div align="center"> 
 
   [![roadmap.sh](https://roadmap.sh/card/wide/68214b0c648d25d9ca9ba227?variant=dark&roadmaps=ai-data-scientist%2Cpython%2Ccomputer-science%2Ctechnical-writer)](https://roadmap.sh)
  
 </div>
 
-<p align="center">
+<p align="center"> 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight" 
     alt="Benjamin's GitHub stats" 
-    height="150"
+    height="150" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
-    height="150"
+    height="150" 
   />
 </p>
 
@@ -97,8 +97,8 @@ A machine learning-based web application to predict diseases based on user-selec
 - **Features:** Symptom-based prediction, SVM model implementation, Interactive web interface
 
 ## 📄 Research Publications
-- **[Market Capitalization Forecasting with Annuity Due Models](https://www.researchgate.net/publication/387671507_Market_Capitalization_Forecasting_with_Annuity_Due_Models)** (2023) - Mathematical model for estimating future market capitalization using annuity due formulas
-- **[Mathematical Analysis of Multi-Outcome Sports Betting Arbitrage](https://www.researchgate.net/publication/387671984_Mathematical_Analysis_of_Multi-Outcome_Sports_Betting_Arbitrage_A_System_of_Equations_Approach)** (2023) - Framework for identifying arbitrage opportunities using systems of equations
+- **[Market Capitalization Forecasting with Annuity Due Models](https://www.researchgate.net/publication/387671507_Market_Capitalization_Forecasting_with_Annuity_Due_Models)** (2023) - Mathematic[...]
+- **[Mathematical Analysis of Multi-Outcome Sports Betting Arbitrage](https://www.researchgate.net/publication/387671984_Mathematical_Analysis_of_Multi-Outcome_Sports_Betting_Arbitrage_A_System_o[...]
 
 ## 🤝 Connect with Me
 
@@ -139,7 +139,3 @@ A machine learning-based web application to predict diseases based on user-selec
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=attabeezy&theme=tokyo-night)
-
----
-
-⭐️ From [attabeezy](https://github.com/attabeezy)
