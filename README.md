@@ -1,5 +1,5 @@
 # Hi there, I'm Attabeezy 👋
-## Telecom @ KNUST | ML Practitioner
+## Telecom @ KNUST | Machine Learning Practitioner
 
 <div align="center"> 
 
