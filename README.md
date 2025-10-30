@@ -1,5 +1,5 @@
 # Hi there, I'm Attabeezy 👋
-## Telecom @ KNUST | Research Fellow @ YARA | DataCamp Scholar
+## Telecom @ KNUST | ML Practitioner
 
 <div align="center"> 
 
