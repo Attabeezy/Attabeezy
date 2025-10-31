@@ -24,7 +24,7 @@
 
 - 🎯 I'm into ML & Quant Finance.
 - 🎓 Studying Telecom Engineering @ KNUST (Class of 2026)
-- 🔬 Acamdemic Focus: Applied ML and LLM Research
+- 🔬 Applied ML and LLM Research
 
 ## ✅ Languages and Tools
 <table>
