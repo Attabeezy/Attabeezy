@@ -3,35 +3,36 @@
 
 ---
 
+## 🔥 Weekly Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" />
+</p>
+
+---
+
 ## 💡 About Me
 - 🧠 Machine Learning & Quant Research enthusiast  
 - 📡 Telecom Engineering student @ KNUST  
 - 🔬 Applied ML & LLM research  
-- 📘 Interested in AI, scientific computing, and data-driven modelling  
+- 📘 Currently reading: *Grokking Machine Learning*  
+- 📚 Tracking progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log)  
+- 💭 Interested in AI, scientific computing, and data-driven modelling  
 
 ---
 
-## 🚀 Current Projects
-- 📈 Building a credit risk model using mobile money data  
-- 📚 Reading *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))  
-- 🤖 Developing ML automation tools for research workflows  
-- 🧬 Experimenting with LLM fine-tuning & agent systems  
+## ⭐ Top Projects (Minimalist)
 
----
+- **streamlit-lab** — Rapid ML prototypes using Streamlit  
+  🔗 https://github.com/Attabeezy/streamlit-lab  
 
-## ⭐ Featured Repositories
+- **extensions-lab** — Utility extensions & tooling for Python workflows  
+  🔗 https://github.com/Attabeezy/extensions-lab  
 
-### 🔹 [streamlit-lab](https://github.com/Attabeezy/streamlit-lab)  
-A sandbox for experimenting with Streamlit apps and rapid ML prototypes.
+- **sequential-crm-for-dce** — Sequential CRM applied to discrete choice experiments  
+  🔗 https://github.com/Attabeezy/sequential-crm-for-dce  
 
-### 🔹 [extensions-lab](https://github.com/Attabeezy/extensions-lab)  
-A collection of extensions, utilities, and custom tools for Python workflows.
-
-### 🔹 [sequential-crm-for-dce](https://github.com/Attabeezy/sequential-crm-for-dce)  
-Research code for Sequential CRM applied to Discrete Choice Experiments.
-
-### 🔹 [semweight-equity](https://github.com/Attabeezy/semweight-equity)  
-Exploring semi-weight equity portfolio construction & quantitative finance strategies.
+- **semweight-equity** — Semi-weight equity portfolio construction experiments  
+  🔗 https://github.com/Attabeezy/semweight-equity  
 
 ---
 
@@ -69,21 +70,8 @@ Exploring semi-weight equity portfolio construction & quantitative finance strat
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=calm" height="150" />
-</p>
-
----
-
-## 🔥 Weekly Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" />
 </p>
 
 ---
