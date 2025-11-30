@@ -13,12 +13,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     alt="Benjamin's GitHub Stats" 
-    height="165"
+    height="180"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=attabeezy&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=attabeezy&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
-    height="165"
+    height="180"
   />
 </p>
 
@@ -26,19 +26,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     alt="Top Languages" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=attabeezy&theme=tokyonight&hide_border=true&layout=compact" 
-    alt="WakaTime Stats" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attabeezy&theme=tokyonight" 
-    alt="Profile Summary"
+    width="400"
   />
 </p>
 
