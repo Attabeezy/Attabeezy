@@ -1,22 +1,19 @@
 # Hi there, I'm Attabeezy 👋  
----
-## ML & Quant Research | Telecom @ KNUST (2026)
----
-
-## 💡 About Me
-- 🧠 Machine Learning & Quant Research enthusiast  
-- 📡 Telecom Engineering student @ KNUST  
-- 🔬 Applied ML & LLM research  
-- 📚 Currently reading: *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
-- 💭 Interested in AI, scientific computing, and data-driven modelling  
-
----
+### ML Practitioner | Telecom @ KNUST (2026)
 
 ## 📊 Weekly Streak & GitHub Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm&hide_border=true" height="165" />
 </p>
+
+
+---
+
+## 💡 About Me
+- 🧠 Machine Learning & Quant Finance Research enthusiast
+- 🔬 Applied ML & LLM research  
+- 📚 Currently reading: *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
 
 ---
 
