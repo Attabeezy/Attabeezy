@@ -3,13 +3,6 @@
 
 ---
 
-## 🔥 Weekly Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" />
-</p>
-
----
-
 ## 💡 About Me
 - 🧠 Machine Learning & Quant Research enthusiast  
 - 📡 Telecom Engineering student @ KNUST  
@@ -20,19 +13,47 @@
 
 ---
 
-## ⭐ Top Projects (Minimalist)
+## 📊 Weekly Streak & GitHub Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm&hide_border=true" height="165" />
+</p>
 
-- **streamlit-lab** — Rapid ML prototypes using Streamlit  
-  🔗 https://github.com/Attabeezy/streamlit-lab  
+---
 
-- **extensions-lab** — Utility extensions & tooling for Python workflows  
-  🔗 https://github.com/Attabeezy/extensions-lab  
+## ⭐ Top Projects
 
-- **sequential-crm-for-dce** — Sequential CRM applied to discrete choice experiments  
-  🔗 https://github.com/Attabeezy/sequential-crm-for-dce  
+<table>
+  <tr>
+    <td><strong>Repo</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Link</strong></td>
+  </tr>
 
-- **semweight-equity** — Semi-weight equity portfolio construction experiments  
-  🔗 https://github.com/Attabeezy/semweight-equity  
+  <tr>
+    <td><strong>streamlit-lab</strong></td>
+    <td>Rapid ML experimentation with Streamlit apps</td>
+    <td><a href="https://github.com/Attabeezy/streamlit-lab">GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>extensions-lab</strong></td>
+    <td>Utility extensions and tools for Python workflows</td>
+    <td><a href="https://github.com/Attabeezy/extensions-lab">GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>sequential-crm-for-dce</strong></td>
+    <td>Sequential CRM for DCE (Data Constrained Environment)</td>
+    <td><a href="https://github.com/Attabeezy/sequential-crm-for-dce">GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>semweight-equity</strong></td>
+    <td>SWELM: Semantic Weighing for Equitable Language Modeling</td>
+    <td><a href="https://github.com/Attabeezy/semweight-equity">GitHub</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -66,13 +87,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm" />
-</p>
 
 ---
 
