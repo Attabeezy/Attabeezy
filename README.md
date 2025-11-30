@@ -7,16 +7,38 @@
  
 </div>
 
-<p align="center"> 
+## 📊 GitHub Statistics
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight" 
-    alt="Benjamin's GitHub stats" 
-    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="Benjamin's GitHub Stats" 
+    height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=attabeezy&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     alt="Top Languages" 
-    height="150" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=attabeezy&theme=tokyonight&hide_border=true&layout=compact" 
+    alt="WakaTime Stats" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attabeezy&theme=tokyonight" 
+    alt="Profile Summary"
   />
 </p>
 
@@ -57,6 +79,12 @@
   </tr>
 </table>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=attabeezy&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-attabra)
@@ -68,4 +96,10 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=attabeezy&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=attabeezy&theme=tokyo-night&hide_border=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=attabeezy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
