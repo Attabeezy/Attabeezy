@@ -9,14 +9,14 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=attabeezy&theme=tokyonight&hide_border=true)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight" alt="Benjamin's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=attabeezy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## ➡️ About Me
 
