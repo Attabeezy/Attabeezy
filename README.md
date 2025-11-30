@@ -1,28 +1,39 @@
-# Hi there, I'm Attabeezy 👋
-## Telecom @ KNUST | ML Practitioner
+# Hi there, I'm Attabeezy 👋  
+### ML & Quant Research · Telecom Engineering @ KNUST (2026)
 
-<div align="center"> 
+---
 
-[//]: [![roadmap.sh](https://roadmap.sh/card/wide/68214b0c648d25d9ca9ba227?variant=dark&roadmaps=ai-data-scientist%2Cpython%2Ccomputer-science%2Ctechnical-writer)](https://roadmap.sh)
- 
-</div>
+## 💡 About Me
+- 🧠 Machine Learning & Quant Research enthusiast  
+- 📡 Telecom Engineering student @ KNUST  
+- 🔬 Applied ML & LLM research  
+- 📘 Interested in AI, scientific computing, and data-driven modelling  
 
-## 📊 GitHub Statistics
+---
 
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+## 🚀 Current Projects
+- 📈 Building a credit risk model using mobile money data  
+- 📚 Reading *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))  
+- 🤖 Developing ML automation tools for research workflows  
+- 🧬 Experimenting with LLM fine-tuning & agent systems  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=attabeezy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-## ➡️ About Me
+## ⭐ Featured Repositories
 
-- 🎯 I'm into ML & Quant Finance.
-- 🎓 Studying Telecom Engineering @ KNUST (Class of 2026)
-- 🔬 Applied ML and LLM Research
+### 🔹 [streamlit-lab](https://github.com/Attabeezy/streamlit-lab)  
+A sandbox for experimenting with Streamlit apps and rapid ML prototypes.
+
+### 🔹 [extensions-lab](https://github.com/Attabeezy/extensions-lab)  
+A collection of extensions, utilities, and custom tools for Python workflows.
+
+### 🔹 [sequential-crm-for-dce](https://github.com/Attabeezy/sequential-crm-for-dce)  
+Research code for Sequential CRM applied to Discrete Choice Experiments.
+
+### 🔹 [semweight-equity](https://github.com/Attabeezy/semweight-equity)  
+Exploring semi-weight equity portfolio construction & quantitative finance strategies.
+
+---
 
 ## ✅ Languages and Tools
 <table>
@@ -55,27 +66,34 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=attabeezy&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+## 📊 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm" />
 </p>
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-attabra)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://attabeezy.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminekowattabra@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Attabra)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27450700)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6963-5422)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=attabeezy&theme=tokyo-night&hide_border=true)
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=attabeezy&layout=compact&theme=calm" height="150" />
+</p>
 
 ---
 
+## 🔥 Weekly Contribution Streak
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=attabeezy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-attabra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://attabeezy.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benjaminekowattabra@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Attabra)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/attabeezy)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6963-5422)
+
