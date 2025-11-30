@@ -1,14 +1,13 @@
 # Hi there, I'm Attabeezy 👋  
-### ML & Quant Research · Telecom Engineering @ KNUST (2026)
-
+---
+## ML & Quant Research | Telecom @ KNUST (2026)
 ---
 
 ## 💡 About Me
 - 🧠 Machine Learning & Quant Research enthusiast  
 - 📡 Telecom Engineering student @ KNUST  
 - 🔬 Applied ML & LLM research  
-- 📘 Currently reading: *Grokking Machine Learning*  
-- 📚 Tracking progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log)  
+- 📚 Currently reading: *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
 - 💭 Interested in AI, scientific computing, and data-driven modelling  
 
 ---
