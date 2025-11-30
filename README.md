@@ -4,7 +4,7 @@
 ## 📊 Weekly Streak & GitHub Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=attabeezy&theme=python-dark&mode=weekly&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=python-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=python&hide_border=true" height="165" />
 </p>
 
 
