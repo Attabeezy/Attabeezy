@@ -3,8 +3,8 @@
 
 ## 📊 Weekly Streak & GitHub Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=calm&mode=weekly&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=calm&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=python-dark&mode=weekly&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=python-dark&hide_border=true" height="165" />
 </p>
 
 
@@ -40,7 +40,7 @@
 
   <tr>
     <td><strong>sequential-crm-for-dce</strong></td>
-    <td>Sequential CRM for DCE (Data Constrained Environment)</td>
+    <td>Sequential Credit Risk Modelling for Data Constrained Environments</td>
     <td><a href="https://github.com/Attabeezy/sequential-crm-for-dce">GitHub</a></td>
   </tr>
 
