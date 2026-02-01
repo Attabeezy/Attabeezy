@@ -2,18 +2,15 @@
 ### ML Practitioner | Telecom @ KNUST (2026)
 
 ## 📊 Weekly Streak & GitHub Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=attabeezy&theme=transparent&mode=weekly&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=attabeezy&show_icons=true&theme=transparent&hide_border=true" height="165" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ---
 
 ## 💡 About Me
-- 🧠 Machine Learning & Quant Finance Research enthusiast
-- 🔬 Applied ML & LLM research  
-- 📚 Currently reading: *Grokking Machine Learning* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
+- 🧠 Machine Learning & Quant Finance Enthusiast
+- 🔬 Applied ML & LLM Research  
+- 📚 Currently reading: *Practical Deep Learning for Coders* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
 
 ---
 
