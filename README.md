@@ -3,7 +3,7 @@
 
 ## 📊 Weekly Streak & GitHub Stats  
 <p align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 ---
