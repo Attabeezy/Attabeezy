@@ -5,6 +5,7 @@
 <div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=attabeezy&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
 </div>
