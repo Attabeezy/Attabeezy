@@ -1,11 +1,8 @@
 # Hi there, I'm Attabeezy 👋  
 ### ML Practitioner | Telecom @ KNUST (2026)
 
-## 📊 Weekly Streak & GitHub Stats  
 <div align="center">
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
 </div>
 
 ---
