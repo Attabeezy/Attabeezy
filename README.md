@@ -1,5 +1,4 @@
-# Hi there, I'm Attabeezy 👋  
-### ML Practitioner | Telecom @ KNUST (2026)
+# Hi there, I'm Attabeezy 👋 ML Practitioner & Telecom @ KNUST (2026)
 
 <div align="center">
   
