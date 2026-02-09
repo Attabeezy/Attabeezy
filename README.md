@@ -1,19 +1,16 @@
-# Hi there, I'm Attabeezy 👋 ML Practitioner & Telecom @ KNUST (2026)
+# Hi there, I'm Attabeezy 👋
+## ML Practitioner | AI Researcher | Telecom @ KNUST (2026)
 
 <div align="center">
-  
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/attabeezy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
-
----
 
 ## 💡 About Me
 - 🧠 Machine Learning & Quant Finance Enthusiast
 - 🔬 Applied ML & LLM Research  
 - 📚 Currently reading: *Practical Deep Learning for Coders* (see progress: [books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log))
-
----
 
 ## ⭐ Top Projects
 
@@ -49,8 +46,6 @@
   </tr>
 </table>
 
----
-
 ## ✅ Languages and Tools
 <table>
   <tr>
@@ -81,8 +76,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🤝 Connect With Me
 
