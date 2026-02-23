@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋
 
-📍 **Kumasi, Ghana** | 🧠 **ML Practitioner & AI Researcher** | 📡 **Telecom Engineering @ KNUST (2026)**
+⚙️ **ML Practitioner** | 🧠 **AI Researcher** | 🌐 **Telecom Engineering @ KNUST (2026)**
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0078D4?style=flat-square&logo=matlab&logoColor=white)
