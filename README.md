@@ -23,7 +23,7 @@
 
 - **Building with ML** — applying probabilistic and sequential models to solve domain-specific problems
 - **Exploring LLM research** — studying fairness and representational equity in language models
-- **Studying breadth-first** — working through fast.ai, quant finance, and signal processing in parallel
+- **Studying breadth-first** — working through artificial intelligence (Applied ML and LLMs), quant finance, and signal processing in parallel
 - **[Sharing on ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra)** — documenting research output as I go
 
 ## Connect
