@@ -1,4 +1,4 @@
-# Hi, I'm Ben 👋
+# Hi, I'm Benjamin 👋
 
 ⚙️ **ML Practitioner** | 🧠 **AI Researcher** | 🌐 **Telecom @ KNUST (2026)**
 
@@ -47,7 +47,7 @@
 - Telecom undergrad moonlighting as an ML researcher
 - Believe the best models are the ones that actually deploy
 - Drawn to problems where data is messy, scarce, or biased
-- Quant finance is the next rabbit hole
+- Quant finance is the next rabbit hole, hopefully
 
 </details>
 
