@@ -10,22 +10,21 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square)](https://claude.ai/)
 [![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat-square)](https://gemini.google.com/)
 
-> Working at the intersection of machine learning and real-world constraints — from credit risk in low-data environments to equity in language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/Attabeezy/books-and-courses-log)).
+> Working at the intersection of machine learning and real-world constraints — from credit risk modeling to language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/attabeezy/computer-lab)).
 
 ## Current Projects
 
-- 📊 **[seqcredit-model](https://github.com/Attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
-- 💬 **[semweight-equity](https://github.com/Attabeezy/semweight-equity)** - SWELM: Semantic weighing for equitable language modeling
-- 🕹️ **[streamlit-lab](https://github.com/Attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
-- 🔧 **[extensions-lab](https://github.com/Attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
-- 📚 **[books-and-courses-log](https://github.com/Attabeezy/books-and-courses-log)** - Tracking my learning journey through books and courses
+- 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
+- 💬 **[semweight-equity](https://github.com/attabeezy/semweight-equity)** - Semantic weighing for equitable language modeling
+- 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
+- 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
+- 📚 **[computer-lab](https://github.com/attabeezy/computer-lab)** - Tracking my learning journey through books and courses
 
 ## What I'm Doing
 
 - **Building with ML** — applying probabilistic and sequential models to solve domain-specific problems
-- **Exploring LLM research** — studying fairness and representational equity in language models
-- **Studying breadth-first** — working through artificial intelligence (Applied ML and LLMs), quant finance, and signal processing in parallel
-- **[Sharing on ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra)** — documenting research output as I go
+- **Exploring AI research** — reading anything and everything AI, LLMs, AI agents, and DRL
+- **Studying breadth-first** — working through AI/ML, quant finance, and engineering in parallel
 
 ## Connect
 
