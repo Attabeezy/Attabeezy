@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 📊 **[sequential-crm-for-dce](https://github.com/Attabeezy/sequential-crm-for-dce)** - Sequential credit risk modelling for data-constrained environments
+- 📊 **[seqcredit-model](https://github.com/Attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
 - 💬 **[semweight-equity](https://github.com/Attabeezy/semweight-equity)** - SWELM: Semantic weighing for equitable language modeling
 - 🕹️ **[streamlit-lab](https://github.com/Attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
 - 🔧 **[extensions-lab](https://github.com/Attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
