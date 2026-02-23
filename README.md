@@ -8,6 +8,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square)
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat-square)
 
 > Working at the intersection of machine learning and real-world constraints — from credit risk in low-data environments to equity in language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/Attabeezy/books-and-courses-log)).
 
